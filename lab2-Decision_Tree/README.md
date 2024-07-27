@@ -1,10 +1,11 @@
 # 作業說明
-**作業二：修改鐵達尼範例程式到套用點餐判斷問題，請依講義資料，自行建立
-train.csv檔作分析。 **
+作業二：修改鐵達尼範例程式到套用點餐判斷問題，請依講義資料，自行建立
+train.csv檔作分析。 
  
 範例程式 
  
 範例程式 請依你的環境做修改。train.csv在附件 
+```python
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
@@ -44,4 +45,4 @@ print(pd.crosstab(preds[:,0], columns=[X["Pclass"],XTest["Sex"]]))
 plt.figure() 
 plot_tree(clf, filled=True) 
 plt.show() 
- 
+```
