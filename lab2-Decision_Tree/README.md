@@ -1,6 +1,6 @@
 # Lab2-執行結果
 * **準確率**  
-![image](https://github.com/user-attachments/assets/069146c8-100d-453a-ad27-721b02d8e9a3)  
+![alt text](image.png)
 
 * **Decision Tree圖**  
 ![alt text](image-1.png)  
