@@ -3,5 +3,6 @@
 該筆記和lab參考丁德榮教授以及施明毅教授給予的ppt和教材  
 
 # Hackmd筆記
-**1-Machine Learning** : https://hackmd.io/@unshun0120/S1hhlx-FA  
-**2-Deep Learning** : https://hackmd.io/@unshun0120/SJxcI_QYC  
+**Part1-Machine Learning** : https://hackmd.io/@unshun0120/S1hhlx-FA  
+**Part2-Deep Learning** : https://hackmd.io/@unshun0120/SJxcI_QYC  
+**Part3-CNN** : https://hackmd.io/@unshun0120/rJqLd3XYC
