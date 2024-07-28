@@ -4,3 +4,4 @@
 
 # Hackmd筆記
 **1-Machine Learning** : https://hackmd.io/@unshun0120/S1hhlx-FA
+**2-Deep Learning** : https://hackmd.io/@unshun0120/SJxcI_QYC
